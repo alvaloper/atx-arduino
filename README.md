@@ -7,3 +7,7 @@ Actualmente los procesos productivos de las economías mundiales están de la ma
 Currently the production processes of world economies are hand in hand with technology and therefore do not escape electronics, which is why there is a need to automate the different key processes of the industries in order to improve and obtain a high performance of the same, in fact the Directorate of Professorial Affairs attached to the Secretariat of the Universidad de los Andes is a source of information and support for the professors who are part of the Universidad de los Andes because all the administrative and legal processes of this group of professionals, for this purpose the Directorate of Professorial Affairs is supported by the computer systems that are carried out in the web servers of the dependency, said servers must be in constant operation so that their electronic components and especially the sources switched atx have failures due to wear or caused by the abrupt increase in temperature, so it is designed e set up a temperature control and remote monitoring system for these sources in order to obtain real-time information on their operation, similar to the fact that the Universidad de los Andes is a knowledge-generating institution, thousands of end users will benefit.
 
 Luis Jose Espinoza Alvarado - Ing.espinozalj@gmail.com
+
+Arduino IDE
+Arduino UNO
+Controllers PID-type
